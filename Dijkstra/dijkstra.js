@@ -40,7 +40,7 @@ const vecinoCercano = (grid, x, y) => {
 
 /////////  INIT  /////////
 console.log(vecinoCercano( [
-  [1,2,3],
-  [4,8,2],
-  [1,5,3],
+  [7,5,1],
+  [3,9,4],
+  [7,2,8],
 ], 2, 2) );
